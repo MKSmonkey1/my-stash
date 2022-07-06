@@ -3,7 +3,7 @@ import socket
 host = '192.168.1.35'
 port = 23
 
-#server ko bata rha hu ki interet ka socket use karna hai or TCP steam use karmi hai
+#server ko bata rha hu ki internet ka socket use karna hai or TCP steam use karmi hai
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
